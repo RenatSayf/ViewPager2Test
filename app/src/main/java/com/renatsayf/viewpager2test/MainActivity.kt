@@ -11,14 +11,7 @@ class MainActivity : AppCompatActivity()
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
 
-        val list = arrayOf(
-            "Example Text 1",
-            "Example Text 2",
-            "Example Text 3",
-            "Example Text 4",
-            "Example Text 5"
-        ).toMutableList()
-
+        val list = mutableListOf<String>()
         for (i in 1..300)
         {
             list.add("Example Text $i")
