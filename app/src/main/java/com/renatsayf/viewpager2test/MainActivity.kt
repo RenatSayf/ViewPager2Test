@@ -1,8 +1,7 @@
 package com.renatsayf.viewpager2test
 
-import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
-import androidx.viewpager.widget.ViewPager
+import androidx.appcompat.app.AppCompatActivity
 import androidx.viewpager2.widget.ViewPager2
 
 class MainActivity : AppCompatActivity()

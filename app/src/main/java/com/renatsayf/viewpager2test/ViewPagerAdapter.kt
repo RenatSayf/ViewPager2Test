@@ -1,7 +1,6 @@
 package com.renatsayf.viewpager2test
 
 import android.view.LayoutInflater
-import android.view.TextureView
 import android.view.View
 import android.view.ViewGroup
 import androidx.recyclerview.widget.RecyclerView
